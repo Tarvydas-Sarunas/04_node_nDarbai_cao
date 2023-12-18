@@ -1,1 +1,7 @@
 GET http://localhost:3000/
+
+### return visus cars
+GET http://localhost:3000/api/cars
+
+### grazina dinamini brand
+GET http://localhost:3000/api/cars/mb
