@@ -1,7 +1,24 @@
 GET http://localhost:3000/
 
+
 ### return visus cars
 GET http://localhost:3000/api/cars
 
 ### grazina dinamini brand
 GET http://localhost:3000/api/cars/mb
+
+
+### return visus users
+GET http://localhost:3000/api/users
+
+### return user pagal dinaminia uzklausa pagal car
+GET http://localhost:3000/api/users/Audi
+
+### return user pagal dinaminia uzklausa pagal id
+GET http://localhost:3000/api/users/2
+
+### return email
+GET http://localhost:3000/api/emails
+
+### return famales
+GET http://localhost:3000/api/femaleNames
