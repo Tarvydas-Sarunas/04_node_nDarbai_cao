@@ -1,0 +1,28 @@
+{
+  "name": "04_node_ndarbai_cao",
+  "version": "1.0.0",
+  "description": "Namu darbai cao po 4 pamokos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarvydas-Sarunas/04_node_nDarbai_cao.git"
+  },
+  "author": "sarunas Tarvydas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tarvydas-Sarunas/04_node_nDarbai_cao/issues"
+  },
+  "homepage": "https://github.com/Tarvydas-Sarunas/04_node_nDarbai_cao#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
